@@ -1,0 +1,2 @@
+include ':app', ':monitor-lib'
+rootProject.name='Android-Monitor'
